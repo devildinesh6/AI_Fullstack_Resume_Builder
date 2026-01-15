@@ -1,0 +1,10 @@
+fastapi==0.128.0
+uvicorn[standard]==0.40.0
+python-dotenv==1.2.1
+pydantic==2.12.5
+# supabase currently requires httpx < 0.29; keep aligned
+httpx==0.28.1
+langgraph==1.0.6
+supabase==2.27.2
+langchain-ollama==0.2.2
+
